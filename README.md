@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif) 
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">Computer Engineering</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/44/6f/12/446f129f1ebc7b7e3bc3b39cbbd4f8bc.gif">
+
 
 
 

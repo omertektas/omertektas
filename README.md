@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omertektas&" alt="omertektas" /></p>
 
-![snake gif](https://github.com/omertektas/omertektas/blob/output/github-contribution-grid-snake.gif)
+
